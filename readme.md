@@ -1,6 +1,6 @@
 ## Git - Fork Workflow
 
-![](diagram.png)
+![](diagram.jpg)
 
 #### Development Scope
 
@@ -80,3 +80,7 @@
 **Pre-Prod** and **Production** repositories can just be one or separate. Make them separate if you are not comfortable running automatic testing in production repository as long they are mirroring each other.
 
 1. Deploy a package done only from the production repository.
+
+-------
+
+The image was created from **Edraw Max 9.4**

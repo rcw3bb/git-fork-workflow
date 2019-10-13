@@ -18,7 +18,7 @@
 
 6. Create a pull request from your fork. 
 
-   5.1. Request a code review.
+   6.1. Request a code review.
 
 ###### Working on issue found by testing
 1. Merge the master to your working branch.
